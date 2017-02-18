@@ -7,3 +7,5 @@ Ein kleiner Versuch, die Readme Datei ein zweites mal zu ändern.
 FUnkt das?
 
 ein neuer versuch, die änderungen über atom zu übernhemen.
+nun weiter in der sache, eine kleine ergänung noch. zuerst also stage ich die änderungen,
+dann gibts erst einen commit.
